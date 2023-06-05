@@ -1,4 +1,4 @@
-const msg = "Hello woorld"
+let msg = "Hello woorld"
 
 if (1 == 1) {
 	msg = "Written"
